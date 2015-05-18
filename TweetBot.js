@@ -1,10 +1,10 @@
 var Twit = require('twit');
 
 var T = new Twit({
-    consumer_key: 'obnKk5FnS2ztt44lrb9Xd8gjq'
-    , consumer_secret: 'FLchRYt44gkR3DFhv0kykOj6PFFtzjSNRdxYyNYARM3NI1BqtJ'
-    , access_token: '2975187454-7PCi1IMXsobaEWttW1oiqg7it9uoIyWFfT5KtO2'
-    , access_token_secret: '4IleuTw6sfmiEqcWJaZT3HUjsewq8EfFUtTqTw8HdRvhD'
+    consumer_key: ' '
+    , consumer_secret: ' '
+    , access_token: ' '
+    , access_token_secret: ' '
 })
 
 //T.get('application/rate_limit_status',function(err, data, response) {
